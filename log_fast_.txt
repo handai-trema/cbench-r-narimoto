@@ -1,0 +1,11 @@
+%self      total      self      wait     child     calls  name
+3.59      4.650     4.507     0.000     0.144   355122   BinData::Base#get_parameter
+2.83      5.867     3.548     0.000     2.319   334332   Kernel#define_singleton_method
+2.10     30.514     2.632     0.000    27.882   194828   BinData::SanitizedField#instantiate
+2.03     27.885     2.553     0.000    25.333   194969   BinData::SanitizedPrototype#instantiate
+1.98      2.480     2.480     0.000     0.000   194983   Kernel#initialize_copy
+1.85      2.319     2.319     0.000     0.000   334333   BasicObject#singleton_method_added
+1.81      2.269     2.269     0.000     0.000   194828   Array#[]=
+1.74     34.027     2.185     0.000    31.842   180903  *BinData::BasePrimitive#do_read
+1.71      2.671     2.150     0.000     0.521   139163   StringIO#read
+1.66      8.845     2.085     0.000     6.760   139155   BinData::IO::Read#read
