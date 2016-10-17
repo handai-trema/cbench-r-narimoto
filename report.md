@@ -96,5 +96,5 @@ flow_modメッセージの送信速度が約10倍程度工場していること�
 [cbench_fast.rb（高速化後）](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/lib/cbench_fast.rb)
 
 ##プロファイリング結果
-[log.txt（高速化前）](https://github.com/handai-trema/cbench-r-narimoto/blob/master/log.txt)
+[log.txt（高速化前）](https://github.com/handai-trema/cbench-r-narimoto/blob/master/log.txt)  
 [log_fast.txt（高速化後）](https://github.com/handai-trema/cbench-r-narimoto/blob/master/log_fast.txt)
