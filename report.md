@@ -93,7 +93,7 @@ RESULT: 1 switches 9 tests min/max/avg/stdev = 1531.17/1780.06/1642.82/90.98 res
 flow_modメッセージの送信速度が約10倍程度向上していることがわかる．
 
 ##ソースコード  
-[cbench_fast.rb（高速化後）](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/lib/cbench_fast.rb)
+[cbench_fast.rb（高速化後）](https://github.com/handai-trema/cbench-r-narimoto/blob/master/lib/cbench_fast.rb)
 
 ##プロファイリング結果
 [log.txt（高速化前）](https://github.com/handai-trema/cbench-r-narimoto/blob/master/log.txt)  
