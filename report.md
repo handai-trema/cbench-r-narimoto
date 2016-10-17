@@ -90,7 +90,7 @@ RESULT: 1 switches 9 tests min/max/avg/stdev = 123.21/203.16/173.98/23.81 respon
 1   switches: fmods/sec:  15312   total = 1.531166 per ms
 RESULT: 1 switches 9 tests min/max/avg/stdev = 1531.17/1780.06/1642.82/90.98 responses/s
 ```
-flow_modメッセージの送信速度が約10倍程度工場していることがわかる．
+flow_modメッセージの送信速度が約10倍程度向上していることがわかる．
 
 ##ソースコード  
 [cbench_fast.rb（高速化後）](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/lib/cbench_fast.rb)
